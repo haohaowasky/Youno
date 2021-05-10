@@ -1,0 +1,13 @@
+    {
+        "type": "younovc",
+        "data": {
+          "@type": [
+            "Person",
+            "PersonE",
+            "NamePerson"
+          ],
+          "name": "Bob Belcher",
+          "email": "bobbelcher@gmail.com"
+        },
+        "holderDid": ""
+      }
